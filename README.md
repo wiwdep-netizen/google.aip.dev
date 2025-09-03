@@ -1,4 +1,4 @@
-# API Improvement Proposals
+1# API Improvement Proposals
 
 **TL;DR:** AIPs are lots of documents on how Google does APIs.
 
@@ -37,7 +37,9 @@ specific to your organization.
 
 If you **have an idea for an AIP that isn't written yet** (yes, there are
 plenty!) check out [Contributing to the project][] to see how you can write
-AIPs for others to follow.
+AIPs for others to fo
+
+llow.
 
 [frequently asked questions]: https://google.aip.dev/faq
 [adopting aips in your company]: https://google.aip.dev/adopting
