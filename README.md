@@ -37,7 +37,9 @@ specific to your organization.
 
 If you **have an idea for an AIP that isn't written yet** (yes, there are
 plenty!) check out [Contributing to the project][] to see how you can write
-AIPs for others to follow.
+AIPs for others to fo
+
+llow.
 
 [frequently asked questions]: ./aip/faq.md
 [adopting aips in your company]: ./aip/adopting.md
